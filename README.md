@@ -1,7 +1,6 @@
 - Hi, I’m @SkyKal
 - I’m interested in AI including everything from core ML/DL to Computer vision and scientific and research computing.
 - I’m currently learning PyTorch. 
-- I’m looking to collaborate on Beginner research projects
 
 <!---
 SkyKal/SkyKal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
